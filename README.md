@@ -1,5 +1,4 @@
 ﻿# CMU-18645-how-to-write-fast-code
-CMU-18645-How-To-Write-Fast-Code
 
 This is the course taught by Prof.Jike Chong and Prof. Ian Lane from CMU
 Course content
